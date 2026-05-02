@@ -1,5 +1,8 @@
 # Sovereign-Hunter-Branding
 # 🔱 Sovereign Hunter Brand Identity
+> "This repository serves as a decentralized trademark registry for the Sovereign Hunter brand. Every asset herein is time-stamped to preserve the novelty of the design and protect the Sovereign Architect's creative sovereignty from unauthorized exploitation by third parties, including institutional entities and academic institutions."
+
+---
 
 [Sovereign Hunter Logo]
 
