@@ -15,7 +15,8 @@ Herein lies the standard that tames the beast.
 
 [Sovereign Hunter Logo]
 
-<img width="1407" height="768" alt="1777716149837" src="https://github.com/user-attachments/assets/115614f5-b74b-4a74-b265-54b8da21dce6" />
+<img width="1024" height="558" alt="image_269d0767-36dd-443a-a8a3-afa228ff60db" src="https://github.com/user-attachments/assets/32c7e878-2370-40c3-abc6-982f6fc47304" />
+
 
 This repository contains the official visual assets and brand identity of **Sovereign Hunter**.
 
